@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Faith Wenyi Ebob Nchifor 👋
+
+**Portfolio**: https://wenebob.github.io/
+
+💻 Software Developer | Machine Learning Engineer  
+🌍 Interested in low-resource language NLP  
+📊 Data Analysis | AI Agents | Gen AI  
+
+## 🚀 Projects
+- Translation datasets for low-resource languages
+- Crowdsourcing platform for voice data collection
+
+## 🛠 Skills
+Python • React Native • Machine Learning • Firebase • NLP
+
