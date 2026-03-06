@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 - Crowdsourcing platform for voice data collection
 
 ## 🛠 Skills
-Python • React Native • Machine Learning • Firebase • NLP
+Full-Stack dev • Mobile dev • Python • Machine Learning • Firebase • NLP
 
