@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 🌍 Interested in low-resource language NLP  
 📊 Data Analysis | AI Agents | Gen AI  
 
+<!--
+
 ## 🚀 Projects
 - Translation datasets for low-resource languages
 - Crowdsourcing platform for voice data collection
@@ -29,3 +31,4 @@ Here are some ideas to get you started:
 ## 🛠 Skills
 Full-Stack dev • Mobile dev • Python • Machine Learning • Firebase • NLP
 
+-->
