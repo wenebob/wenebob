@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Faith Wenyi Ebob Nchifor 👋
+# I'm Faith Wenyi Ebob Nchifor 
 
 **Portfolio**: https://wenebob.github.io/
 
